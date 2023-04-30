@@ -12,3 +12,6 @@ Speed and R-rotation speed are values for pick up speed.
 
 # Exceptions
 ![image](https://user-images.githubusercontent.com/121402730/235358461-790810da-192d-4009-8fc6-7ea3975b71ae.png)
+
+# If need simple player script controller
+![image](https://user-images.githubusercontent.com/121402730/235359965-83330e03-d304-43fc-8616-c0d5b715022f.png)
