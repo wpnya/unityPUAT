@@ -4,7 +4,7 @@
 
 
 
-# All values are customizable.
+# All values are customizable
 ![image](https://user-images.githubusercontent.com/121402730/235358305-801f8b23-e983-46c9-b1bd-cf887abaae78.png)
 
 Half extents is area where you can pick up objs in the form of sphere.  
